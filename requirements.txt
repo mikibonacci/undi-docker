@@ -1,0 +1,6 @@
+numpy~=1.26
+ase
+tdqm
+pandas
+pybind11
+git+https://github.com/mikibonacci/undi.git@update
