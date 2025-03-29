@@ -1,7 +1,7 @@
 # undi-1.0.0 image
 
 Very early stage dev.
-Python version is 3.12.7
+Python version is 3.9.13, to be compatible with the python installed in AiiDAlab images. Needed to have efficient unpickling of files for undi runs.
 
 Undi can be called via `/opt/conda/bin/python -m undi`. 
 To build the image:
